@@ -1,2 +1,2 @@
-# binarypheonix.github.io
-Portfolio Website resources @ binarypheonix.com
+# Check out my website @ binarypheonix.com
+Website resources and code.
